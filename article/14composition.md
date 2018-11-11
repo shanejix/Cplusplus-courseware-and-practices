@@ -21,7 +21,7 @@
 
 ## composition in action
 
-![1541504524980](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541504524980.png)
+![1541504524980](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/14.png)
 
 ## example
 

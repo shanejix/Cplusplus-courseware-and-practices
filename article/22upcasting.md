@@ -17,7 +17,7 @@
 
 - upcasting is the act of converting from a Derived reference or pointer to a base class reference or pointer
 
-![1541594882785](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541594882785.png)
+![1541594882785](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/22.png)
 
 ## upcasting examples
 

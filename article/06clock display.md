@@ -14,9 +14,9 @@
 
 ## object & classes
 
-![1541472105886](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541472105886.png)
+![1541472105886](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/06-1.png)
 
 ## class diagram
 
-![1541472200795](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541472200795.png)
+![1541472200795](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/06-2.png)
 

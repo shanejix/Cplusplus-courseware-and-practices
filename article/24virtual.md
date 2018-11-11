@@ -14,7 +14,7 @@ protected:
 };
 ```
 
-![1541641788899](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541641788899.png)
+![1541641788899](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/24-1.png)
 
 > vPtr----指针
 >
@@ -93,7 +93,7 @@ protected:
 };
 ```
 
-![1541644435333](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541644435333.png)
+![1541644435333](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/24-2.png)
 
 > ellipse 有自己的vtable
 
@@ -111,7 +111,7 @@ protected:
 };
 ```
 
-![1541644739688](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541644739688.png)
+![1541644739688](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/24-3.png)
 
 ## what happens if
 

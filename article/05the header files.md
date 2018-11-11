@@ -27,7 +27,7 @@
 
 ## structure of c++ program
 
-![1541468968452](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541468968452.png)
+![1541468968452](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/05.png)
 
 > "#"---pach 编译预处理指令
 >

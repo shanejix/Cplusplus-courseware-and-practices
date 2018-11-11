@@ -19,7 +19,7 @@ two basic meanings
 
 ## global static hidden in file
 
-![1541673625014](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541673625014.png)
+![1541673625014](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/28.png)
 
 ## static inside functions
 

@@ -258,7 +258,7 @@ template<class T>
 
 ## what happened?
 
-![1541848264942](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541848264942.png)
+![1541848264942](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/363738.png)
 
 ## how to raise an exception
 
@@ -389,6 +389,7 @@ try{
 
 - not checked at compile time
 - at run time
+
   - if an exceptions not in the list propagates out,the "unexpected" exception is raised
 
 ##examples

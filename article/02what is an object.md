@@ -16,7 +16,7 @@ objects=attributes+servers
 
 - operations（操作）:the functions
 
-  ![1541407129603](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541407129603.png)
+  ![1541407129603](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/02-1.png)
 
 ## mapping（映射）
 
@@ -24,7 +24,7 @@ objects=attributes+servers
 
 - from the problem place to the solution one
 
-  ![1541407386906](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541407386906.png)
+  ![1541407386906](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/02-2.png)
 
 ## procedural（程序上的） languages
 

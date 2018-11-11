@@ -2,7 +2,7 @@
 
 - object send and receive messages(object do things)
 
-  ![1541417752354](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541417752354.png)
+  ![1541417752354](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/03.png)
 
 ## objects send messages
 

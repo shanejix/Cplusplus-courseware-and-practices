@@ -12,7 +12,7 @@
 
 ## something is there
 
-![1541425281604](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541425281604.png)
+![1541425281604](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/04.png)
 
 - TicketMachine
 

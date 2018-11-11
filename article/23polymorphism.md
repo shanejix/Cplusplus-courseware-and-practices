@@ -23,7 +23,7 @@ circle rectangle ellipse
 
 ## conceptual（概念） model
 
-![1541602795673](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541602795673.png)
+![1541602795673](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/23.png)
 
 ## shape
 
