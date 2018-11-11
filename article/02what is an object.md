@@ -24,7 +24,7 @@ objects=attributes+servers
 
 - from the problem place to the solution one
 
-  ![1541407386906](C:\Users\jixia\AppData\Roaming\Typora\typora-user-images\1541407386906.png)
+  ![1541407386906](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/02-1.png)
 
 ## procedural（程序上的） languages
 
