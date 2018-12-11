@@ -24,7 +24,11 @@ objects=attributes+servers
 
 - from the problem place to the solution one
 
+<<<<<<< HEAD
   ![1541407386906](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/02-2.png)
+=======
+  ![1541407386906](https://github.com/shanejix/Cplusplus-best-practices/blob/master/images/02-1.png)
+>>>>>>> 41037967ba65816ab1dcb043d11d593939f69890
 
 ## procedural（程序上的） languages
 
