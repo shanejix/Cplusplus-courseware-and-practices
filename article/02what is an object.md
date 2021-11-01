@@ -79,4 +79,4 @@ a.print();
   - designs(找到问题的思路，办法)
   - implementations（实现，代码）
 - objects,not control or data flow,**are the primary focus of the design and implementation**
-- **to focus on tings**,not operation
+- **to focus on things**,not operation
